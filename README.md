@@ -1,0 +1,2 @@
+# Titanic-Survival-Prediction
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. The analysis is about what sorts of people were likely to survive. By applying the Random Forest of machine learning techniques, predicted which passengers survived the tragedy. 
